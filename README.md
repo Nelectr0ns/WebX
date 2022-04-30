@@ -1,4 +1,4 @@
-# WebhookW
+# WebX
 - Just have python installed and download the zip from this page.
 - Run the launch.bat
 ## Legality
