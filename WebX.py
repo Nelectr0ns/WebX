@@ -8,7 +8,7 @@ except (ModuleNotFoundError):
 
 from colorama import Fore, init
 init(convert=True)
-print(Fore.Cyan + """
+print(Fore.CYAN + """
 
 :::       ::: :::::::::: :::::::::  :::    ::: 
 :+:       :+: :+:        :+:    :+: :+:    :+: 
@@ -19,7 +19,7 @@ print(Fore.Cyan + """
   ###   ###   ########## #########  ###    ### 
   
   """)
-print(Fore.Green + "By Nelectrons")
+print(Fore.GREEN + "By Nelectrons")
 print(f'{Fore.CYAN}WebX:{Fore.RESET}\n\n1. {Fore.GREEN}Spam Webhook {Fore.RESET}[1]\n2. {Fore.RED}Delete Webhook {Fore.RESET}[2]\n')
 print(f'\n{Fore.WHITE}Choice : {Fore.RESET}', end='')
 
